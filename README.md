@@ -1,16 +1,15 @@
-# instant_messaging
+You have recently programmed your own instant messaging application that supports Arabic and English languages, offers customizable themes (bold and light), allows users to customize interface colors, allows individual and group messaging, and provides a convenient list of all contacts for easy reference. I admire the user-centered design and functionality of your app.
 
-A new Flutter project.
+![image](https://github.com/alaaRashed2001/chat-messenger-app-flutter/assets/114382094/b4e4077e-a57c-458d-8056-2d84dfe32e71)
 
-## Getting Started
+![image](https://github.com/alaaRashed2001/chat-messenger-app-flutter/assets/114382094/18eeaf91-7e40-4aa2-9748-fa9691c056e0)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/alaaRashed2001/chat-messenger-app-flutter/assets/114382094/558fc387-8f06-4c47-a4ac-5a6c246a15db)![image](https://github.com/alaaRashed2001/chat-messenger-app-flutter/assets/114382094/ea82b968-764a-4cbd-b460-4e29654eb4c2)![image](https://github.com/alaaRashed2001/chat-messenger-app-flutter/assets/114382094/718624bb-4d82-4d94-ab41-fee729db5e1d)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
